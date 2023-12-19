@@ -1,4 +1,5 @@
 # TRYHACKME.COM - PEANUT BUTTER IS GOOD CTF
+https://tryhackme.com/room/peanutbutterisgood
 
 ## TASK 1
 Retrieve the flag hidden inside an image, somewhere on the website.
@@ -10,4 +11,4 @@ Retrieve the flag hidden inside an image, somewhere on the website.
 - __Step 5__ - Use a stegano software (i.e. Steghide or Aperisolve) to find the flag.txt file.
 - __Step 6__ - Decode the base64 encoded flag twwice to retrieve it.
 
-__ANSWER #1__ : FLAG{This_cat_is_probably_named_Jean}
+__ANSWER #1__ : FLAG{***}
